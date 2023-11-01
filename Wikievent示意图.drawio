@@ -1,11 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T03:40:58.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="yF6mCatcXkaKsmolPb6h" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T04:07:07.832Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="S7v80nn1YbT3vpJ9qPFT" version="21.3.8" type="github">
   <diagram name="第 1 页" id="_f0jQLligPuGgjY3-sxE">
     <mxGraphModel dx="1026" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4d1iELA9zwMFfN9gE_KR-1" value="&lt;div&gt;Roadside IED kills Russian major general in Syria.&amp;nbsp;&lt;/div&gt;&lt;div&gt;The desert south and east of Deir ez-Zor on the regime’s side of the Euphrates is rife with insurgents.&lt;/div&gt;&lt;div&gt;Russia’s foray into Syria took yet another heavy toll this week, when that nation’s Defense Ministry confirmed that a major general was killed in Syria by an improvised explosive device, Al-Monitor online reported. Major General Vyacheslav Gladkikh died after a roadside IED detonated under a convoy of Russian soldiers and Syrian pro-regime militiamen near the city of Deir ez-Zor. Three other Russian military personnel were wounded, Russia’s state-run Tass news agency reported.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="530" width="580" height="120" as="geometry" />
+        <mxCell id="4d1iELA9zwMFfN9gE_KR-1" value="&lt;div style=&quot;font-size: 17px; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[S3] Russia’s foray into Syria took yet another heavy toll this week, when that nation’s Defense Ministry confirmed that a major &lt;/span&gt;&lt;span style=&quot;background-color: rgb(151, 208, 119);&quot;&gt;general&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; was &lt;/span&gt;&lt;span style=&quot;background-color: rgb(33, 218, 255);&quot;&gt;killed&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; in Syria by an improvised explosive device, &lt;/span&gt;&lt;span style=&quot;background-color: rgb(151, 208, 119);&quot;&gt;Al-Monitor online&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: rgb(33, 218, 255);&quot;&gt;reported&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px; line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;[S4] Major General &lt;span style=&quot;background-color: rgb(151, 208, 119);&quot;&gt;Vyacheslav Gladkikh&lt;/span&gt; &lt;span style=&quot;background-color: rgb(33, 218, 255);&quot;&gt;died&lt;/span&gt; after a roadside IED detonated under a convoy of Russian soldiers and Syrian pro-regime militiamen near the city of &lt;span style=&quot;background-color: rgb(151, 208, 119);&quot;&gt;Deir ez-Zor&lt;/span&gt;.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px; line-height: 140%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="580" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="4d1iELA9zwMFfN9gE_KR-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="440" as="sourcePoint" />
+            <mxPoint x="680" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4d1iELA9zwMFfN9gE_KR-4" value="&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;Victim&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4d1iELA9zwMFfN9gE_KR-3">
+          <mxGeometry x="-0.0953" y="-3" relative="1" as="geometry">
+            <mxPoint x="-9" y="53" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4d1iELA9zwMFfN9gE_KR-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="490" as="sourcePoint" />
+            <mxPoint x="640" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4d1iELA9zwMFfN9gE_KR-6" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Communicator&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4d1iELA9zwMFfN9gE_KR-5">
+          <mxGeometry x="-0.0953" y="-3" relative="1" as="geometry">
+            <mxPoint y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4d1iELA9zwMFfN9gE_KR-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="584" y="516" as="sourcePoint" />
+            <mxPoint x="484" y="516" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="534" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4d1iELA9zwMFfN9gE_KR-8" value="&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;Victim&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4d1iELA9zwMFfN9gE_KR-7">
+          <mxGeometry x="-0.0953" y="-3" relative="1" as="geometry">
+            <mxPoint x="-8" y="37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4d1iELA9zwMFfN9gE_KR-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.207;entryY=0.778;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="585" y="537" as="sourcePoint" />
+            <mxPoint x="380.05999999999995" y="587.06" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="657" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4d1iELA9zwMFfN9gE_KR-10" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Communicator&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4d1iELA9zwMFfN9gE_KR-9">
+          <mxGeometry x="-0.0953" y="-3" relative="1" as="geometry">
+            <mxPoint x="-54" y="-54" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T03:02:36.982Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" version="21.3.8" etag="kslJlzXLQWnXkNFN-_RE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T03:40:58.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="yF6mCatcXkaKsmolPb6h" version="21.3.8" type="github">
   <diagram name="第 1 页" id="_f0jQLligPuGgjY3-sxE">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4d1iELA9zwMFfN9gE_KR-1" value="&lt;div&gt;Roadside IED kills Russian major general in Syria.&amp;nbsp;&lt;/div&gt;&lt;div&gt;The desert south and east of Deir ez-Zor on the regime’s side of the Euphrates is rife with insurgents.&lt;/div&gt;&lt;div&gt;Russia’s foray into Syria took yet another heavy toll this week, when that nation’s Defense Ministry confirmed that a major general was killed in Syria by an improvised explosive device, Al-Monitor online reported. Major General Vyacheslav Gladkikh died after a roadside IED detonated under a convoy of Russian soldiers and Syrian pro-regime militiamen near the city of Deir ez-Zor. Three other Russian military personnel were wounded, Russia’s state-run Tass news agency reported.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="530" width="580" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

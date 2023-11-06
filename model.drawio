@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T02:13:36.022Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="eb0v2pBRZ2p5wVMyh9Ne" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T02:23:02.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ADSYz1rYWsUQ3gvSJjtU" version="22.0.8" type="github">
   <diagram name="第 1 页" id="aBAtC7C85wRrQgK5SBA-">
-    <mxGraphModel dx="789" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="892" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,8 +206,10 @@
             <mxPoint x="540" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L6vsH4I87ayAv4RI-xaD-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/geosm-e-commerce/48/search-128.png" parent="1" vertex="1">
-          <mxGeometry x="281" y="60" width="34" height="34" as="geometry" />
+        <mxCell id="miJZAYwyKmaXPgzx9ikr-5" value="zoom in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L6vsH4I87ayAv4RI-xaD-2">
+          <mxGeometry x="0.174" relative="1" as="geometry">
+            <mxPoint x="6" y="-8" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="L6vsH4I87ayAv4RI-xaD-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="90" y="28" width="168" height="168" as="geometry" />
@@ -346,13 +348,15 @@
         <mxCell id="L6vsH4I87ayAv4RI-xaD-56" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="504" y="234.5" width="31" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="L6vsH4I87ayAv4RI-xaD-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/geosm-e-commerce/48/search-128.png" parent="1" vertex="1">
-          <mxGeometry x="510" y="166" width="34" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="L6vsH4I87ayAv4RI-xaD-58" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.696;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="L6vsH4I87ayAv4RI-xaD-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="584" y="154" as="sourcePoint" />
             <mxPoint x="560" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="miJZAYwyKmaXPgzx9ikr-6" value="zoom in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L6vsH4I87ayAv4RI-xaD-58">
+          <mxGeometry x="0.059" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L6vsH4I87ayAv4RI-xaD-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -426,8 +430,8 @@
             <mxPoint x="441.5" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="miJZAYwyKmaXPgzx9ikr-2" value="1.具体的实例来解释" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="55" y="448" width="130" height="30" as="geometry" />
+        <mxCell id="miJZAYwyKmaXPgzx9ikr-2" value="1.具体的实例来解释&lt;br&gt;2.或者 标注词的颜色" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="443" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

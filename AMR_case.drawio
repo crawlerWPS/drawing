@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T15:25:04.839Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="F6A1af8ULSwPTedjM7dB" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T15:34:05.212Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VYGSuu2xO78w1WSf3b_i" version="22.1.3" type="github">
   <diagram name="第 1 页" id="Bpt3EHnc-XG6woePa3AU">
     <mxGraphModel dx="1818" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xj7ccxpRjcmuDJTjEku6-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;The Taliban killed more than 100 members of the Afghan security forces inside a military compound in central Maidan Wardak province on Monday&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xj7ccxpRjcmuDJTjEku6-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The dog chased the ball in the morning.&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="134" y="70" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xj7ccxpRjcmuDJTjEku6-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="130" y="130" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

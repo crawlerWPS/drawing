@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T06:49:57.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="edy4INKuA1s5vPwbtnw3" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-23T06:52:42.257Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="eAw4TKMTCVofaUCJrymc" version="22.1.11" type="github">
   <diagram name="第 1 页" id="aBAtC7C85wRrQgK5SBA-">
     <mxGraphModel dx="953" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -434,23 +434,23 @@
         <mxCell id="ASljsbczPLoBp7QqAxyb-84" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="193" y="471" width="275" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ASljsbczPLoBp7QqAxyb-89" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;AMR Explicit Relation Enhancement Module&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="214" y="481" width="260" height="40" as="geometry" />
+        <mxCell id="ASljsbczPLoBp7QqAxyb-89" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;AMR图显式关系增强模块&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="255" y="481" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ASljsbczPLoBp7QqAxyb-90" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Local-Global Encoding Module&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="17" y="481" width="170" height="40" as="geometry" />
+        <mxCell id="ASljsbczPLoBp7QqAxyb-90" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;局部-全局编码器模块&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="41" y="481" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ASljsbczPLoBp7QqAxyb-91" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="477" y="471" width="161" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ASljsbczPLoBp7QqAxyb-92" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Attention Fusion Module&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ASljsbczPLoBp7QqAxyb-92" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;注意力融合模块&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="495" y="481" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SMVEQulNbsIjLR0KKEGX-9" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="645" y="471" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SMVEQulNbsIjLR0KKEGX-10" value="Identification &amp;amp; Classification" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="647" y="481" width="170" height="40" as="geometry" />
+        <mxCell id="SMVEQulNbsIjLR0KKEGX-10" value="事件论元识别以及分类模块" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="481" width="153" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

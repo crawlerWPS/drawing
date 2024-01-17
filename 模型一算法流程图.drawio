@@ -1,46 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T08:28:32.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="BlnrcCHJIUAr1OnLGCy-" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T08:37:03.402Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="OvByNhHOVvQeo9JGJfQI" version="22.1.18" type="github">
   <diagram name="第 1 页" id="jOLeK5Tnrv1MTi5kzZtN">
     <mxGraphModel dx="587" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZxYj19B3jPYOa6TasSLj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZxYj19B3jPYOa6TasSLj-1" target="ZxYj19B3jPYOa6TasSLj-2">
+        <mxCell id="ZxYj19B3jPYOa6TasSLj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体-简;fontSize=18;" edge="1" parent="1" source="ZxYj19B3jPYOa6TasSLj-1" target="ZxYj19B3jPYOa6TasSLj-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZxYj19B3jPYOa6TasSLj-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="ZxYj19B3jPYOa6TasSLj-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontFamily=宋体-简;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="190" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZxYj19B3jPYOa6TasSLj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZxYj19B3jPYOa6TasSLj-2" target="ZxYj19B3jPYOa6TasSLj-3">
+        <mxCell id="ZxYj19B3jPYOa6TasSLj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体-简;fontSize=18;" edge="1" parent="1" source="ZxYj19B3jPYOa6TasSLj-2" target="ZxYj19B3jPYOa6TasSLj-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZxYj19B3jPYOa6TasSLj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxYj19B3jPYOa6TasSLj-2" value="获得文本以及使用AMR解析器对文本信息进行解析，并对文本进行局部编码以及全局编码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体-简;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="30" y="150" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZxYj19B3jPYOa6TasSLj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZxYj19B3jPYOa6TasSLj-3" target="ZxYj19B3jPYOa6TasSLj-4">
+        <mxCell id="ZxYj19B3jPYOa6TasSLj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体-简;fontSize=18;" edge="1" parent="1" source="ZxYj19B3jPYOa6TasSLj-3" target="ZxYj19B3jPYOa6TasSLj-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZxYj19B3jPYOa6TasSLj-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxYj19B3jPYOa6TasSLj-3" value="获得局部以及全局编码信息后，对信息进行AMR图显示关系增强策略" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体-简;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="30" y="230" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZxYj19B3jPYOa6TasSLj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZxYj19B3jPYOa6TasSLj-4" target="ZxYj19B3jPYOa6TasSLj-5">
+        <mxCell id="ZxYj19B3jPYOa6TasSLj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体-简;fontSize=18;" edge="1" parent="1" source="ZxYj19B3jPYOa6TasSLj-4" target="ZxYj19B3jPYOa6TasSLj-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZxYj19B3jPYOa6TasSLj-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxYj19B3jPYOa6TasSLj-4" value="对局部和全局信息进行局部信息增强型注意力融合以获得最终的隐藏层表示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体-简;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="30" y="310" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZxYj19B3jPYOa6TasSLj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZxYj19B3jPYOa6TasSLj-5" target="ZxYj19B3jPYOa6TasSLj-6">
+        <mxCell id="ZxYj19B3jPYOa6TasSLj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体-简;fontSize=18;" edge="1" parent="1" source="ZxYj19B3jPYOa6TasSLj-5" target="ZxYj19B3jPYOa6TasSLj-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZxYj19B3jPYOa6TasSLj-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxYj19B3jPYOa6TasSLj-5" value="对隐藏层表示计算边界损失" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体-简;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="30" y="390" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZxYj19B3jPYOa6TasSLj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZxYj19B3jPYOa6TasSLj-6" target="ZxYj19B3jPYOa6TasSLj-12">
+        <mxCell id="ZxYj19B3jPYOa6TasSLj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体-简;fontSize=18;" edge="1" parent="1" source="ZxYj19B3jPYOa6TasSLj-6" target="ZxYj19B3jPYOa6TasSLj-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZxYj19B3jPYOa6TasSLj-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxYj19B3jPYOa6TasSLj-6" value="对隐藏层表示计算与实际金标准的分类损失，最终抽取论元，并对论元进行分类" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体-简;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="30" y="470" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZxYj19B3jPYOa6TasSLj-12" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="ZxYj19B3jPYOa6TasSLj-12" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontFamily=宋体-简;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="190" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

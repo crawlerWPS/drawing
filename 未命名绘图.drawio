@@ -285,19 +285,32 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.571;entryY=-0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-0" target="Bgh7VfDjB50sTkW0Ix46-2">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-0">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="404" y="220" />
-              <mxPoint x="740" y="220" />
-              <mxPoint x="740" y="360" />
-              <mxPoint x="412" y="360" />
+              <mxPoint x="404" y="230" />
+              <mxPoint x="740" y="230" />
+              <mxPoint x="740" y="340" />
+              <mxPoint x="410" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-57" value="13. 贷后预警（大蒜价格）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-56">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-57" value="13.1 贷后预警（大蒜价格）推送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-56">
           <mxGeometry x="0.6448" relative="1" as="geometry">
             <mxPoint x="64" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.09;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-2" target="Bgh7VfDjB50sTkW0Ix46-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-59" value="13.2 调节授信额度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-58">
+          <mxGeometry x="0.4908" y="-1" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

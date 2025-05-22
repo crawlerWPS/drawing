@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bgh7VfDjB50sTkW0Ix46-1" value="水发农业集团有限公司" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="434" y="240" width="130" height="60" as="geometry" />
+          <mxGeometry x="434" y="18" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-2" target="Bgh7VfDjB50sTkW0Ix46-3">
           <mxGeometry relative="1" as="geometry">
@@ -102,7 +102,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-22" value="5 合同签约（不启用额度）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-21">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-22" value="5. 仓单质押合同签约（不启用额度）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-21">
           <mxGeometry x="0.0487" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -110,7 +110,7 @@
         <mxCell id="Bgh7VfDjB50sTkW0Ix46-3" value="货主" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="54" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5yoJ0oaOs3mJgdB9JSAQ-2" target="Bgh7VfDjB50sTkW0Ix46-0">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5yoJ0oaOs3mJgdB9JSAQ-2" target="Bgh7VfDjB50sTkW0Ix46-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-5" value="开发、运营" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-4">
@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-2" value="水发大正科技服务有限公司" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="244" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="244" y="18" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

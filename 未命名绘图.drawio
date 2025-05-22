@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="814" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-26" value="5.3 推送审批结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-25">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-26" value="5.3 推送合同审批结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-25">
           <mxGeometry x="0.5881" y="-1" relative="1" as="geometry">
             <mxPoint x="77" y="-24" as="offset" />
           </mxGeometry>
@@ -87,8 +87,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-24" value="5.2 推送审批结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-23">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-24" value="5.2 推送合同审批结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-23">
           <mxGeometry x="-0.6058" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-2" target="5yoJ0oaOs3mJgdB9JSAQ-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="434" y="580" />
+              <mxPoint x="624" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-31" value="6. 核实仓单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-30">
+          <mxGeometry x="-0.0343" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -146,6 +159,9 @@
         </mxCell>
         <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-2" value="水发大正科技服务有限公司" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="244" y="18" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-29" value="中登网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="564" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

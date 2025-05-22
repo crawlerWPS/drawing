@@ -21,6 +21,18 @@
         <mxCell id="Bgh7VfDjB50sTkW0Ix46-2" value="南京银行" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-3" target="Bgh7VfDjB50sTkW0Ix46-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-8" value="开立电子仓单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-7">
+          <mxGeometry x="0.0821" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Bgh7VfDjB50sTkW0Ix46-3" value="货主" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-20" y="240" width="120" height="60" as="geometry" />
         </mxCell>

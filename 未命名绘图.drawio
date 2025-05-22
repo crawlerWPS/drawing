@@ -4,22 +4,27 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-0" target="Bgh7VfDjB50sTkW0Ix46-2">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-0" target="Bgh7VfDjB50sTkW0Ix46-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="140" />
-              <mxPoint x="540" y="385" />
+              <mxPoint x="540" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-11" value="初审通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-9">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-11" value="2.1 初审通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-9">
           <mxGeometry x="-0.7755" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-12" value="质押仓单变为预冻结" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-9">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-12" value="2.2 质押仓单-》预冻结" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-9">
           <mxGeometry x="-0.1469" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-16" value="2.3 推送信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-9">
+          <mxGeometry x="0.7607" y="3" relative="1" as="geometry">
+            <mxPoint x="13" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bgh7VfDjB50sTkW0Ix46-0" value="水发供应链平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -47,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-8" value="开立电子仓单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-7">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-8" value="1. 开立电子仓单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-7">
           <mxGeometry x="0.0821" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -59,9 +64,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-14" value="跳转鑫微厅进行申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-13">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-14" value="3. 跳转鑫微厅进行申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-13">
           <mxGeometry x="-0.1136" y="1" relative="1" as="geometry">
-            <mxPoint x="28" y="1" as="offset" />
+            <mxPoint x="58" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bgh7VfDjB50sTkW0Ix46-3" value="货主" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">

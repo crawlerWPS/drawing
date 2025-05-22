@@ -92,17 +92,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-2" target="5yoJ0oaOs3mJgdB9JSAQ-29">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-2" target="5yoJ0oaOs3mJgdB9JSAQ-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="434" y="580" />
-              <mxPoint x="624" y="580" />
+              <mxPoint x="434" y="625" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-31" value="6. 核实仓单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-30">
           <mxGeometry x="-0.0343" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="34" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-2" target="Bgh7VfDjB50sTkW0Ix46-3">
@@ -220,24 +219,24 @@
         <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#97D077;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5yoJ0oaOs3mJgdB9JSAQ-29" target="Bgh7VfDjB50sTkW0Ix46-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="920" y="630" />
-              <mxPoint x="920" y="125" />
+              <mxPoint x="810" y="630" />
+              <mxPoint x="810" y="125" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-35" value="7.2 质押登记，并推送质押登记结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-34">
           <mxGeometry x="-0.8305" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="6" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-29" value="中登网" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="564" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#97D077;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5yoJ0oaOs3mJgdB9JSAQ-29" target="5yoJ0oaOs3mJgdB9JSAQ-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="654" y="720" />
-              <mxPoint x="624" y="720" />
+              <mxPoint x="610" y="720" />
+              <mxPoint x="550" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>

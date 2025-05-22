@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="582" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -113,7 +113,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-41" value="9. 授信额度启用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5yoJ0oaOs3mJgdB9JSAQ-40" vertex="1" connectable="0">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-41" value="8. 授信额度启用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5yoJ0oaOs3mJgdB9JSAQ-40" vertex="1" connectable="0">
           <mxGeometry x="0.4471" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -125,7 +125,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-43" value="10. 1 贷款发放" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5yoJ0oaOs3mJgdB9JSAQ-42" vertex="1" connectable="0">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-43" value="9.1 贷款发放" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5yoJ0oaOs3mJgdB9JSAQ-42" vertex="1" connectable="0">
           <mxGeometry x="0.4838" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -140,7 +140,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-64" value="10.2 放款信息推送水发平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5yoJ0oaOs3mJgdB9JSAQ-63" vertex="1" connectable="0">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-64" value="9.2 放款信息推送水发平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5yoJ0oaOs3mJgdB9JSAQ-63" vertex="1" connectable="0">
           <mxGeometry x="-0.6471" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -246,19 +246,6 @@
         </mxCell>
         <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-29" value="中登网" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#006600;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5yoJ0oaOs3mJgdB9JSAQ-29" target="5yoJ0oaOs3mJgdB9JSAQ-29" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="610" y="720" />
-              <mxPoint x="550" y="720" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-37" value="8. 完成电子仓单入库登记" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5yoJ0oaOs3mJgdB9JSAQ-36" vertex="1" connectable="0">
-          <mxGeometry x="-0.0194" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#FF0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-3" edge="1">
           <mxGeometry relative="1" as="geometry">

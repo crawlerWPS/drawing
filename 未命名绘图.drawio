@@ -65,7 +65,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-14" value="3. 跳转鑫微厅进行申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-13">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-14" value="3. 跳转鑫微厅进行申请借款" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-13">
           <mxGeometry x="-0.1136" y="1" relative="1" as="geometry">
             <mxPoint x="102" y="9" as="offset" />
           </mxGeometry>

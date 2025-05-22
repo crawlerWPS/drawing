@@ -81,7 +81,7 @@
         <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-2" target="Bgh7VfDjB50sTkW0Ix46-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="440" />
+              <mxPoint x="450" y="440" />
               <mxPoint x="810" y="440" />
               <mxPoint x="810" y="155" />
             </Array>
@@ -124,8 +124,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-43" value="10. 贷款发放" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-42">
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-43" value="10. 1 贷款发放" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-42">
           <mxGeometry x="0.4838" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bgh7VfDjB50sTkW0Ix46-2" target="Bgh7VfDjB50sTkW0Ix46-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="410" />
+              <mxPoint x="780" y="410" />
+              <mxPoint x="780" y="190" />
+              <mxPoint x="439" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoJ0oaOs3mJgdB9JSAQ-45" value="10.2 放款信息推送水发平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5yoJ0oaOs3mJgdB9JSAQ-44">
+          <mxGeometry x="-0.6376" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
